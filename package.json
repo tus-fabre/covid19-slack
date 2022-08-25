@@ -1,0 +1,19 @@
+{
+  "name": "tus-slack-api-programming",
+  "version": "1.0.0",
+  "description": "Sample Slack programming code in NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TUS",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.11.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "date-utils": "^1.2.21",
+    "dotenv": "^16.0.1",
+    "pdfmake": "^0.2.5",
+    "pg": "^8.7.3"
+  }
+}

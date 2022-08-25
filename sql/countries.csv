@@ -1,0 +1,232 @@
+﻿Id,ISO,英語名,日本語名
+0,,All,すべての国
+1,AF,Afghanistan,アフガニスタン
+2,AL,Albania,アルバニア
+3,DZ,Algeria,アルジェリア
+4,AD,Andorra,アンドラ
+5,AO,Angola,アンゴラ
+6,AI,Anguilla,アンギラ
+7,AG,Antigua and Barbuda,アンティグア・バーブーダ
+8,AR,Argentina,アルゼンチン
+9,AM,Armenia,アルメニア
+10,AW,Aruba,アルバ
+11,AU,Australia,オーストラリア
+12,AT,Austria,オーストリア
+13,AZ,Azerbaijan,アゼルバイジャン
+14,BS,Bahamas,バハマ
+15,BH,Bahrain,バーレーン
+16,BD,Bangladesh,バングラデシュ
+17,BB,Barbados,バルバトス
+18,BY,Belarus,ベラルーシ
+19,BE,Belgium,ベルギー
+20,BZ,Belize,ベリーズ
+21,BJ,Benin,ベニン
+22,BM,Bermuda,バミューダ
+23,BT,Bhutan,ブータン
+24,BO,Bolivia,ボリビア
+25,BA,Bosnia,ボスニア
+26,BW,Botswana,ボツワナ
+27,BR,Brazil,ブラジル
+28,VG,British Virgin Islands,イギリス領バージン諸島
+29,BN,Brunei,ブルネイ
+30,BG,Bulgaria,ブルガリア
+31,BF,Burkina Faso,ブルキナ・ファソ
+32,BI,Burundi,ブルンジ
+33,CV,Cabo Verde,カーボベルデ
+34,KH,Cambodia,カンボジア
+35,CM,Cameroon,カメルーン
+36,CA,Canada,カナダ
+37,BQ,Caribbean Netherlands,オランダ領カリブ
+38,KY,Cayman Islands,ケイマン諸島
+39,CF,Central African Republic,中央アフリカ共和国
+40,TD,Chad,チャド
+41,JE,Channel Islands,チャネル諸島
+42,CL,Chile,チリ
+43,CN,China,中国
+44,CO,Colombia,コロンビア
+45,KM,Comoros,コモロ
+46,CG,Congo,コンゴ
+47,CK,Cook Islands,クック諸島
+48,CR,Costa Rica,コスタリカ
+49,HR,Croatia,クロアチア
+50,CU,Cuba,キューバ
+51,CW,Curaçao,キュラソー
+52,CY,Cyprus,キプロス
+53,CZ,Czechia,チェコ
+54,CI,Côte d'Ivoire,コートジボワール
+55,CD,DRC,コンゴ民主共和国
+56,DK,Denmark,デンマーク
+57,,Diamond Princess,ダイヤモンド・プリンセス
+58,DJ,Djibouti,ジブチ
+59,DM,Dominica,ドミニカ
+60,DO,Dominican Republic,ドミニカ共和国
+61,EC,Ecuador,エクアドル
+62,EG,Egypt,エジプト
+63,SV,El Salvador,エルサルバドル
+64,GQ,Equatorial Guinea,赤道ギニア
+65,ER,Eritrea,エリトリア
+66,EE,Estonia,エストニア
+67,ET,Ethiopia,エチオピア
+68,FK,Falkland Islands (Malvinas),フォークランド諸島
+69,FO,Faroe Islands,フェロー諸島
+70,FJ,Fiji,フィジー
+71,FI,Finland,フィンランド
+72,FR,France,フランス
+73,GF,French Guiana,フランス領ギアナ
+74,PF,French Polynesia,フランス領ポリネシア
+75,GA,Gabon,ガボン
+76,GM,Gambia,ガンビア
+77,GE,Georgia,ジョージア
+78,DE,Germany,ドイツ
+79,GH,Ghana,ガーナ
+80,GI,Gibraltar,ジブラルタル
+81,GR,Greece,ギリシャ
+82,GL,Greenland,グリーンランド
+83,GD,Grenada,グレナダ
+84,GP,Guadeloupe,グアドループ
+85,GT,Guatemala,グアテマラ
+86,GN,Guinea,ギニア
+87,GW,Guinea-Bissau,ギニア・ビサウ
+88,GY,Guyana,ガイアナ
+89,HT,Haiti,ハイチ
+90,VA,Holy See (Vatican City State),バチカン市国
+91,HN,Honduras,ホンジュラス
+92,HK,Hong Kong,香港
+93,HU,Hungary,ハンガリー
+94,IS,Iceland,アイスランド
+95,IN,India,インド
+96,ID,Indonesia,インドネシア
+97,IR,Iran,イラン
+98,IQ,Iraq,イラク
+99,IE,Ireland,アイルランド
+100,IM,Isle of Man,マン島
+101,IL,Israel,イスラエル
+102,IT,Italy,イタリア
+103,JM,Jamaica,ジャマイカ
+104,JP,Japan,日本
+105,JO,Jordan,ヨルダン
+106,KZ,Kazakhstan,カザフスタン
+107,KE,Kenya,ケニア
+108,KI,Kiribati,キリバス
+109,KW,Kuwait,クウェート
+110,KG,Kyrgyzstan,キルギス
+111,LA,Lao People's Democratic Republic,ラオス
+112,LV,Latvia,ラトビア
+113,LB,Lebanon,レバノン
+114,LS,Lesotho,レソト
+115,LR,Liberia,リベリア
+116,LY,Libyan Arab Jamahiriya,リビア
+117,LI,Liechtenstein,リヒテンシュタイン
+118,LT,Lithuania,リトアニア
+119,LU,Luxembourg,ルクセンブルク
+120,,MS Zaandam,MSザーンダム
+121,MO,Macao,マカオ
+122,MK,Macedonia,マケドニア
+123,MG,Madagascar,マダガスカル
+124,MW,Malawi,マラウイ
+125,MY,Malaysia,マレーシア
+126,MV,Maldives,モルディブ
+127,ML,Mali,マリ
+128,MT,Malta,マルタ
+129,MH,Marshall Islands,マーシャル諸島
+130,MQ,Martinique,マルティニーク
+131,MR,Mauritania,モーリタニア
+132,MU,Mauritius,モーリシャス
+133,YT,Mayotte,マヨット
+134,MX,Mexico,メキシコ
+135,FM,Micronesia,ミクロネシア
+136,MD,Moldova,モルドバ
+137,MC,Monaco,モナコ
+138,MN,Mongolia,モンゴル
+139,ME,Montenegro,モンテネグロ
+140,MS,Montserrat,モントセラト
+141,MA,Morocco,モロッコ
+142,MZ,Mozambique,モザンビーク
+143,MM,Myanmar,ミャンマー
+144,KP,N. Korea,北朝鮮
+145,NA,Namibia,ナミビア
+146,NR,Nauru,ナウル
+147,NP,Nepal,ネパール
+148,NL,Netherlands,オランダ
+149,NC,New Caledonia,ニューカレドニア
+150,NZ,New Zealand,ニュージーランド
+151,NI,Nicaragua,ニカラグア
+152,NE,Niger,ニジェール
+153,NG,Nigeria,ナイジェリア
+154,NU,Niue,ニウエ
+155,NO,Norway,ノルウェー
+156,OM,Oman,オマーン
+157,PK,Pakistan,パキスタン
+158,PW,Palau,パラオ
+159,PS,Palestine,パレスチナ
+160,PA,Panama,パナマ
+161,PG,Papua New Guinea,パプアニューギニア
+162,PY,Paraguay,パラグアイ
+163,PE,Peru,ペルー
+164,PH,Philippines,フィリピン
+165,PL,Poland,ポーランド
+166,PT,Portugal,ポルトガル
+167,QA,Qatar,カタール
+168,RO,Romania,ルーマニア
+169,RU,Russia,ロシア
+170,RW,Rwanda,ルワンダ
+171,RE,Réunion,レユニオン
+172,KR,S. Korea,韓国
+173,SH,Saint Helena,セントヘレナ
+174,KN,Saint Kitts and Nevis,セントクリストファー・ネービス
+175,LC,Saint Lucia,セントルシア
+176,MF,Saint Martin,サン・マルタン島
+177,PM,Saint Pierre Miquelon,サンピエール島・ミクロン島
+178,VC,Saint Vincent and the Grenadines,セントビンセントおよびグレナディーン諸島
+179,WS,Samoa,サモア
+180,SM,San Marino,サン・マリノ
+181,ST,Sao Tome and Principe,サントメ・プリンシペ
+182,SA,Saudi Arabia,サウジアラビア
+183,SN,Senegal,セネガル
+184,RS,Serbia,セルビア
+185,SC,Seychelles,セーシェル
+186,SL,Sierra Leone,シエラレオネ
+187,SG,Singapore,シンガポール
+188,SX,Sint Maarten,シント・マールテン
+189,SK,Slovakia,スロバキア
+190,SI,Slovenia,スロベニア
+191,SB,Solomon Islands,ソロモン諸島
+192,SO,Somalia,ソマリア
+193,ZA,South Africa,南アフリカ
+194,SS,South Sudan,南スーダン
+195,ES,Spain,スペイン
+196,LK,Sri Lanka,スリランカ
+197,BL,St. Barth,サン・バルテルミー島
+198,SD,Sudan,スーダン
+199,SR,Suriname,スリナム
+200,SZ,Swaziland,スワジランド
+201,SE,Sweden,スウェーデン
+202,CH,Switzerland,スイス
+203,SY,Syrian Arab Republic,シリア
+204,TW,Taiwan,台湾
+205,TJ,Tajikistan,タジキスタン
+206,TZ,Tanzania,タンザニア
+207,TH,Thailand,タイ
+208,TL,Timor-Leste,東ティモール
+209,TG,Togo,トーゴ
+210,TO,Tonga,トンガ
+211,TT,Trinidad and Tobago,トリニダード・トバゴ
+212,TN,Tunisia,チュニジア
+213,TR,Turkey,トルコ
+214,TC,Turks and Caicos Islands,タークス・カイコス諸島
+215,TV,Tuvalu,ツバル
+216,AE,UAE,アラブ首長国連邦
+217,GB,UK,イギリス
+218,US,USA,アメリカ
+219,UG,Uganda,ウガンダ
+220,UA,Ukraine,ウクライナ
+221,UY,Uruguay,ウルグアイ
+222,UZ,Uzbekistan,ウズベキスタン
+223,VU,Vanuatu,バヌアツ
+224,VE,Venezuela,ベネズエラ
+225,VN,Vietnam,ベトナム
+226,WF,Wallis and Futuna,ウォリス・フツナ
+227,EH,Western Sahara,西サハラ
+228,YE,Yemen,イエメン
+229,ZM,Zambia,ザンビア
+230,ZW,Zimbabwe,ジンバブエ
