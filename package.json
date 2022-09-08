@@ -4,7 +4,8 @@
   "description": "Sample Slack programming code in NodeJS",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon ./app.js",
+    "start": "cross-env NODE_ENV=production node ./app.js"
   },
   "author": "TUS",
   "license": "ISC",
