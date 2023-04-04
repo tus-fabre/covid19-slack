@@ -1,7 +1,7 @@
 #
 # Slackアプリに用いる環境変数
 #
-# Botトークン　（環境に合わせて変更する）
+# Botユーザートークン　（環境に合わせて変更する）
 SLACK_BOT_TOKEN=xoxb-***
 # アプリトークン　（環境に合わせて変更する）
 SLACK_APP_TOKEN=xapp-***
