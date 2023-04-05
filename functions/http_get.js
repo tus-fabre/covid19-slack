@@ -36,6 +36,7 @@ async function httpGet(url) {
         data = res.data;
     } catch (err) {
         console.error(err.name + ": " + err.message);
+        console.error("[URL] " + url);
     }
 
     return data;
