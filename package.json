@@ -1,20 +1,32 @@
 {
-  "name": "tus-slack-api-programming",
+  "name": "covid19-slack",
   "version": "1.0.0",
-  "description": "Sample Slack programming code in NodeJS",
+  "description": "Slack app for COVID-19",
+  "engines": {
+    "node": "20.x"
+  },
   "main": "app.js",
   "scripts": {
     "dev": "nodemon ./app.js",
     "start": "cross-env NODE_ENV=production node ./app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "keywords": [
+    "node",
+    "slack",
+    "covid-19"
+  ],
   "author": "TUS",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "@slack/bolt": "^3.13.0",
+    "@slack/bolt": "^3.15.0",
     "chartjs-node-canvas": "^4.1.6",
     "date-utils": "^1.2.21",
-    "dotenv": "^16.0.3",
-    "pdfmake": "^0.2.7",
-    "pg": "^8.10.0"
+    "dotenv": "^16.3.1",
+    "pdfmake": "^0.2.8",
+    "pg": "^8.11.3"
   }
 }
